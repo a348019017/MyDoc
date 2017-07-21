@@ -33,6 +33,7 @@ SMB路径
 ## 部署文档系统
 >使用Nodejs  
 >文档的实时修改会自动刷新页面
+
 ```bash
 npm i docsify-cli -g
 docsify serve docs
