@@ -8,11 +8,7 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <nav>
-    <a href="#/changelog">EN</a>
-    <a href="#/changelog">中文</a>
-  </nav>
-  <div id="app"></div>
+  
   <div id="app"></div>
 </body>
 <script>
